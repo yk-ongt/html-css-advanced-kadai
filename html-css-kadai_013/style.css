@@ -95,11 +95,11 @@ PC用のスタイル
     z-index: 100;
   }
 
-  #nav-sp ul {
+  #nav-sp nav ul {
     padding-left: 0;
   }
 
-  #nav-sp li {
+  #nav-sp nav li {
     list-style: none;
   }
 
@@ -115,23 +115,24 @@ PC用のスタイル
     margin: 80px 0 30px 20px;
   }
 
-  #nav-sp a {
+  #nav-sp nav a {
     display: block;
   }
 
-  #nav-sp a:link {
+  #nav-sp nav a:link {
     color: #ffffff;
   }
 
-  #nav-sp a:visited {
+  #nav-sp nav a:visited {
     color: #ffffff;
   }
 
-  #nav-sp a:hover {
+  #nav-sp nav a:hover {
     color: #ffffff;
+    text-decoration: underline;
   }
 
-  #nav-sp a:active {
+  #nav-sp nav a:active {
     color: #ffffff;
   }
 
